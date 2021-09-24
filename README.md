@@ -8,6 +8,7 @@ I'm able to code in these lanuages
 - C
 - C++
 - C#
+- Java
 - GD script
 - Sehll Script
 - Swift
@@ -18,7 +19,6 @@ OS Experience in
 
 - Mac OS 10.7 - (current)
 - Debian-based Linux
-- Arch-based Linux
 - Gentoo Linux
 - Arch-based Linux
 - Windows 7 & 10

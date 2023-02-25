@@ -1,24 +1,9 @@
 Hi there
 =
 
-I'm able to code in these lanuages
--
-
+I'm a proffessional software developer who sometimes likes to develop FOSS Projects in his freetime.
+Mostly i like coding in theese languages:
+- Kotlin
 - Python
-- C
-- C++
-- C#
 - Java
-- GD script
-- Sehll Script
-- Swift
-- Lab View
-
-OS Experience in
--
-
-- Mac OS 10.7 - (current)
-- Debian-based Linux
-- Gentoo Linux
-- Arch-based Linux
-- Windows 7 & 10
+- C#
